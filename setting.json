@@ -1,0 +1,8 @@
+{
+    "G-STEP": {
+        "ON_OFF_KEY": "delete",
+        "OFF_KEY_1": "insert",
+        "OFF_KEY_2": "home",
+        "END_KEY": "end"
+    }
+}
